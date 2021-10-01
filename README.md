@@ -1,2 +1,2 @@
 # Project
-Popular Platforms for Marketing FB or Insta
+Medical Insurance Price Prediction
